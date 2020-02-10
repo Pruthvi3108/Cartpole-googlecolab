@@ -10,7 +10,7 @@ First Clone the repository; it will be stored in /content folder in google colab
 
 Step:2
 
-run the cartpole.py file using following command
+Run the cartpole.py file using following command
 
 !python /content/cartpole/cartpole.py
 
